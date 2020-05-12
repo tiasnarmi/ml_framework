@@ -142,7 +142,7 @@ cython_debug/
 input/
 models/
 
-# Ignore input files 
+# Ignore input files and more
 *.csv
 *.pkl
 *.h5
